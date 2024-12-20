@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">SuperMarioBrossArtBook</string>
+    <string name="acerca_de">Acerca de...</string>
+    <string name="mensaje_acerca_de">Aplicación desarrollada por Jose Angel Alvarez. Versión 1.0.</string>
+    <string name="bienvenido_mundo_mario">Bienvenidos al mundo de Mario</string>
+    <string name="personaje_seleccionado">Se ha seleccionado el personaje %1$s</string>
+    <string name="personaje_imagen_desc">Imagen del personaje</string>
+    <string name="nombre_personaje_placeholder">Personaje</string>
+    <string name="ok">OK</string>
+    <string name="drawer_open">Abrir menú</string>
+    <string name="drawer_close">Cerrar menú</string>
+    <string name="home">Inicio</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="idioma">Idioma</string>
+</resources>
+

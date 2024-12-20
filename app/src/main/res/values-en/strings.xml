@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperMarioBrossArtBook</string>
+    <string name="acerca_de">About...</string>
+    <string name="mensaje_acerca_de">Application developed by Jose Angel Alvarez. Version 1.0.</string>
+    <string name="bienvenido_mundo_mario">Welcome to Mario\'s World</string>
+    <string name="personaje_seleccionado">You selected the character %1$s</string>
+    <string name="personaje_imagen_desc">Character image</string>
+    <string name="nombre_personaje_placeholder">Character</string>
+    <string name="ok">OK</string>
+    <string name="drawer_open">Open Menu</string>
+    <string name="drawer_close">Close menu</string>
+    <string name="home">Home</string>
+    <string name="ajustes">Settings</string>
+    <string name="idioma">Language</string>
+    <string name="cambiar_idioma">Change Language</string>
+    <string name="mario_name">Mario</string>
+    <string name="mario_desc">Hero of the Mushroom Kingdom</string>
+    <string name="mario_abil_1">High jump</string>
+    <string name="mario_abil_2">Bravery</string>
+
+    <string name="luigi_name">Luigi</string>
+    <string name="luigi_desc">Marios brother</string>
+    <string name="luigi_abil_1">High jump</string>
+    <string name="luigi_abil_2">A bit fearful</string>
+
+    <string name="peach_name">Peach</string>
+    <string name="peach_desc">Princess of the Mushroom Kingdom</string>
+    <string name="peach_abil_1">Gliding in the air</string>
+    <string name="peach_abil_2">Using mushrooms</string>
+
+    <string name="toad_name">Toad</string>
+    <string name="toad_desc">Mushroom Kingdom resident</string>
+    <string name="toad_abil_1">Speed</string>
+    <string name="toad_abil_2">Kingdom knowledge</string>
+</resources>
